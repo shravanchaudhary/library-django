@@ -1,0 +1,11 @@
+.vscode
+venv
+.env
+todo.md
+tracker.md
+venv/venv
+**/venv
+**/cpython
+**/cpython/**
+.pyc
+*.pyc
